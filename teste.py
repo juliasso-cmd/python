@@ -1,1 +1,3 @@
-input("Hello World!")
+print("Hello World!")
+
+input("Digite algo:")
