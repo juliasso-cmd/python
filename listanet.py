@@ -4,4 +4,4 @@ temp = float(input("Digite a temperatura que deseja converter em celcius: "))
 
 fahr = temp *1.8+32
 
-print("a temperatura em Fahrenheit é: {}".format(fahr)) 
+print("a temperatura em Fahrenheit é: {}ºF".format(fahr)) 
