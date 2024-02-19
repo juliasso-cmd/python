@@ -8,7 +8,7 @@
 # print("a parte inteira de {} é: {}".format(num,math.trunc(num)))
 
 
-# #2a Forma: importanto apenas o necessário.
+# #2a Forma: importando apenas o necessário.
 
 # from math import trunc, ceil, floor
 # num = float(input("Insira o valor: "))
